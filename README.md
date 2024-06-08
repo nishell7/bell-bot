@@ -15,7 +15,7 @@ bandar utama,kota damansara,selangor
 
 phone number:+60 13-576 7890
 
-the menu(coffe)
+the main(coffe)
 caramel macchiatto(available)
 caramel latte(available)
 americano(available)
